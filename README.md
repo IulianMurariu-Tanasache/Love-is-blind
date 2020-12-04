@@ -1,2 +1,2 @@
 # Love-is-blind
-A game I made with my friends for a game jam in Unity and C#
+A game I made with my friends, in a week, for a game jam in Unity and C#
